@@ -1,0 +1,55 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="TVBrasil" tvg-name="TV Brasil" group-title="Canais Públicos",TV Brasil
+https://playout.cdnstv.live/tvbrasil/smil:tvbrasil.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVCultura" tvg-name="TV Cultura" group-title="Canais Públicos",TV Cultura
+https://streaming.cultura.radiocultura.com.br/stream/cultura/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVSenado" tvg-name="TV Senado" group-title="Canais Públicos",TV Senado
+https://stream3.camara.leg.br/tvsenado/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVCamara" tvg-name="TV Câmara" group-title="Canais Públicos",TV Câmara
+https://camara.versatileresolucoes.com.br/hls/camaradf.m3u8
+
+#EXTINF:-1 tvg-id="TVJustica" tvg-name="TV Justiça" group-title="Canais Públicos",TV Justiça
+https://stream3.camara.leg.br/tvjustica/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVAparecida" tvg-name="TV Aparecida" group-title="Religiosos",TV Aparecida
+http://caikron.com.br:8081/tvap/tvap/tvap/240p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="NovoTempo" tvg-name="Novo Tempo" group-title="Religiosos",Novo Tempo
+http://stream.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVSeculo21" tvg-name="TV Século 21" group-title="Religiosos",TV Século 21
+https://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/index_250_av-p.m3u8
+
+#EXTINF:-1 tvg-id="TVFAAP" tvg-name="TV FAAP" group-title="Educativos",TV FAAP
+http://midia.faap.br/faaplatamlive-live/stream_480/livestream.m3u8
+
+#EXTINF:-1 tvg-id="UNIVESP" tvg-name="UNIVESP TV" group-title="Educativos",UNIVESP TV
+https://iptv.univesp.br/stream/1.m3u8
+
+#EXTINF:-1 tvg-id="TVALEPE" tvg-name="TV ALEPE" group-title="Canais Públicos",TV ALEPE
+https://video01.logicahost.com.br/alepe/alepe/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVDiario" tvg-name="TV Diário" group-title="Regionais",TV Diário
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="TVCFortaleza" tvg-name="TVC Fortaleza" group-title="Regionais",TVC Fortaleza
+https://5fc45691d156f.streamlock.net/tvcfortaleza/tvcfortaleza/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVGazeta" tvg-name="TV Gazeta" group-title="Canais Abertos",TV Gazeta
+https://secure-playlist.livestream.com/streams/5381476_2395418_lsi7ip53mf4zuhv3bqr_1/media/5381476_2395418_lsi7ip53mf4zuhv3bqr_1@198000p.m3u8
+
+#EXTINF:-1 tvg-id="TVNovaNordeste" tvg-name="TV Nova Nordeste" group-title="Regionais",TV Nova Nordeste
+http://cdn2.comets.com.br/tvnovanordeste/aovivo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVUrbana" tvg-name="TV Urbana" group-title="Regionais",TV Urbana
+http://srv6.zoeweb.tv:1935/z433-live/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AgroBrasil" tvg-name="Agro Brasil" group-title="Agro",Agro Brasil
+http://192.99.101.129:1935/agrobrasiltv/agrobrasiltv_720p/live.m3u8
+
+#EXTINF:-1 tvg-id="AgroCanal" tvg-name="Agro Canal" group-title="Agro",Agro Canal
+http://live.sba1.com:80/hls-live/liveac/_definst_/liveevent/livestream.m3u8
